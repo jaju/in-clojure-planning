@@ -1,11 +1,13 @@
 * [2017-09-18]
 
-First meeting over [[https://hangouts.google.com/hangouts/_/5c3ewib4cjbj5l54oborvq5k24e][hangouts]] at 2PM
+First meeting over [[https://hangouts.google.com/hangouts/_/gsu2yfz3j5cqvac6ztlovec7oee][hangouts]] at 2PM
 Topics for discussion based on Mohit's starting email
+
 
 ** DONE Date
 CLOSED: [2017-09-18 Mon 14:05]
 2nd December, 2017 appears to be okay with everyone.
+
 
 ** VERIFY Format
 - Workshop only
@@ -26,11 +28,13 @@ CLOSED: [2017-09-18 Mon 14:05]
   - Need to have multiple coaches sign-up
     - Nilenso, Quintype as possible sources of coaches
 
+
 ** TODO CFP
  - Need to be done by coming Monday (25th September)
  - Program Committee
    - TD, KS, SD, BG
  - Owner: Jaju
+
 
 ** TODO Sponsorship Slabs
 - We need to fix slabs
@@ -38,14 +42,17 @@ CLOSED: [2017-09-18 Mon 14:05]
 - Date: After finalizing the venues and getting an idea of the costs.
 - Owner: Jaju
 
+
 ** TODO Website
 - Hosted on Github
 - Mohit will add all of us to the repo, and we can do a combined update of the website
 - Owner: Srihari
 
+
 ** TODO Social Media outreach
 - Mohit to provide access to SM account(s)
 - Owner: Shantanu
+
 
 ** [1/5] TODO Location
 Overall owner: Sandy(?)
@@ -79,10 +86,12 @@ Choice: Bengaluru
 **** TODO Urgency - because of the wedding season coming.
 **** TODO Sponsorship + ticket prices => location
 
+
 ** TODO Trust
 - Satish?
  - Mohit reached out to him. Dinkar also pointed towards him
 - Mohit on it right now, but nothing is clear yet given the time-lines
+
 
 ** TODO Sponsorship
 - Go-Jek (Srihari)
